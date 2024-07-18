@@ -4,7 +4,7 @@ A single-page application that allows users to create and manage a list of tasks
 
 ## Demo
 
-[Add a link to your demo here if available]
+[DEMO](https://antypenko-bohdan.github.io/Todo-app/)
 
 ## Technologies used
 
